@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1469883046 source:/home/ensar/codeblocks/grafikaProjekt/main.cpp
+	<iostream>
+	<GL/glut.h>
+	"Hand.h"
+	"Camera.h"
+
+1469884178 source:/home/ensar/codeblocks/grafikaProjekt/src/Camera.cpp
+	"Camera.h"
+
+1469374745 /home/ensar/codeblocks/grafikaProjekt/include/Camera.h
+	<GL/glut.h>
+
+1469884010 source:/home/ensar/codeblocks/grafikaProjekt/src/Finger.cpp
+	"Finger.h"
+
+1469527803 /home/ensar/codeblocks/grafikaProjekt/include/Finger.h
+	<GL/glut.h>
+	"Model.h"
+
+1469884140 source:/home/ensar/codeblocks/grafikaProjekt/src/Hand.cpp
+	"Hand.h"
+
+1469875678 /home/ensar/codeblocks/grafikaProjekt/include/Hand.h
+	<GL/glut.h>
+	"Finger.h"
+
+1469374720 source:/home/ensar/codeblocks/grafikaProjekt/src/Light.cpp
+	"Light.h"
+	<iterator>
+
+1469374380 /home/ensar/codeblocks/grafikaProjekt/include/Light.h
+	<GL/glut.h>
+
+1469880840 /home/ensar/codeblocks/grafikaProjekt/include/Model.h
+	<GL/glut.h>
+
+1469883175 source:/home/ensar/codeblocks/grafikaProjekt/src/Model.cpp
+	"Model.h"
+
+1470066723 source:/home/ensar/Downloads/grafikaProjekt/main.cpp
+	<iostream>
+	<GL/glut.h>
+	"Hand.h"
+	"Camera.h"
+
+1470064761 /home/ensar/Downloads/grafikaProjekt/include/Hand.h
+	<GL/glut.h>
+	"Finger.h"
+
+1470064471 /home/ensar/Downloads/grafikaProjekt/include/Finger.h
+	<GL/glut.h>
+	"Model.h"
+
+1470088308 /home/ensar/Downloads/grafikaProjekt/include/Model.h
+	<GL/glut.h>
+
+1470066635 /home/ensar/Downloads/grafikaProjekt/include/Camera.h
+	<GL/glut.h>
+
+1470066646 source:/home/ensar/Downloads/grafikaProjekt/src/Camera.cpp
+	"Camera.h"
+
+1470064895 source:/home/ensar/Downloads/grafikaProjekt/src/Hand.cpp
+	"Hand.h"
+
+1469374720 source:/home/ensar/Downloads/grafikaProjekt/src/Light.cpp
+	"Light.h"
+	<iterator>
+
+1469374380 /home/ensar/Downloads/grafikaProjekt/include/Light.h
+	<GL/glut.h>
+
+1470063943 source:/home/ensar/Downloads/grafikaProjekt/src/Model.cpp
+	"Model.h"
+
+1470064091 source:/home/ensar/Downloads/grafikaProjekt/src/Finger.cpp
+	"Finger.h"
+
